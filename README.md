@@ -2,10 +2,10 @@
 > Práctica de Node.Js 
 > API Rest desarrollada en Node y consumida con Angular 5
 
-# Screenshots
+## Screenshots
 > Todavía ninguna
 
-# Tecnologías Usadas
+## Tecnologías Usadas
 
 - express
 - mongoose
@@ -13,7 +13,7 @@
 - path
 - pug
 
-# Instalación
+## Instalación
 #### OS X, Linux y Windows
 *Abra un terminal y ejecute:*
 ```ShellSession
@@ -28,7 +28,7 @@ npm install
 ```ShellSession
 node server.js
 ```
-# Lista de Tareas
+## Lista de Tareas
 
 - [x] Inicilizar repositorio
 - [ ] Subir mis primeros cambios a GitHub
@@ -36,13 +36,13 @@ node server.js
 - [ ] Probar el API
 - [ ] Completar el front-end
 
-# Para contribuir
+## Para contribuir
 
-1   Has un [Fork](https://github.com/pulidovpe/login-node/fork)
-2   Crea tu propia rama (git checkout -b feature/fooBar)
-3   Sube tus cambios (git commit -am 'Add some fooBar')
-4   Actualiza tu rama (git push origin feature/fooBar)
-5   Has un "Pull Request"
+1. Has un [Fork](https://github.com/pulidovpe/login-node/fork)
+2. Crea tu propia rama (git checkout -b feature/fooBar)
+3. Sube tus cambios (git commit -am 'Add some fooBar')
+4. Actualiza tu rama (git push origin feature/fooBar)
+5. Has un "Pull Request"
 
 
 # Créditos
