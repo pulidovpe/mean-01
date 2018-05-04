@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# credentials
+auth.js*
+server_crt.pem
+server_key.pem
+localhost.crt
+localhost.key
