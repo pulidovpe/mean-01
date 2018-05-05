@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"my_notes"
+			],
+			[
+				"click",
+				"click)=\"addNote"
+			],
+			[
+				"form-",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"d",
+				"dist"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"erro",
+				"error_nombre"
+			],
+			[
+				"error",
+				"error_email"
+			],
+			[
+				"forma",
+				"Formulario"
+			],
+			[
+				"mi",
+				"miformulario"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"show",
+				"showView"
+			],
+			[
+				"Contro",
+				"Controller"
+			],
+			[
+				"tablas",
+				"tablas_unefa"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"opera",
+				"operacion"
+			],
+			[
+				"Even",
+				"Evento"
+			],
+			[
+				"str",
+				"strong\tTag"
+			],
+			[
+				"boot",
+				"bootstrap-modal"
+			],
+			[
+				"boo",
+				"bootstrap-modal"
+			],
+			[
+				"Evento",
+				"EventosDato"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ERROR",
+				"ERROR-DESCONEXION"
+			],
+			[
+				"dato",
+				"datos_1"
+			],
+			[
+				"ENVIO",
+				"ENVIO-CLAVE"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cedula",
+				"cedula_formulario"
+			],
+			[
+				"cla",
+				"clave_formulario"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"edit",
+				"edit_clave2"
+			],
+			[
+				"clave",
+				"clave_corta"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"tipo",
+				"tipo_estuido"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "term",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"tere",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/mis-proyectos/nodejs/mean-01"
+	],
+	"file_history":
+	[
+		"/home/developer/Documentos/Trabajo/MEXICO/usuarios-app-twitter.txt",
+		"/home/developer/Documentos/Trabajo/MEXICO/usuarios.txt",
+		"/var/www/html/mis-proyectos/laneta/twitter-unFollow/src/main/java/com/mkyong/core/utils/App.java",
+		"/var/www/html/mis-proyectos/nodejs/login-node/README.md",
+		"/home/developer/Dropbox/Cuentas/wallets.txt",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/src/app/app.component.html",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/src/app/app.component.ts",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/src/app/app.module.ts",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/.angular-cli.json",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/src/styles.css",
+		"/home/developer/Descargas/TMP/tmp/inputs.txt",
+		"/media/developer/WINDATA/USUARIOS/PULIDOVPE/OTROS/mineria win/Monedero Monero y Bitcoin.txt",
+		"/var/www/html/mis-proyectos/nodejs/login-node/config/passport.js",
+		"/home/developer/Escritorio/Bolsa-de-comida.txt",
+		"/var/www/html/mis-proyectos/nodejs/login-node/.gitignore",
+		"/var/www/html/mis-proyectos/nodejs/login-node/package.json",
+		"/var/www/html/mis-proyectos/nodejs/login-node/server.js",
+		"/var/www/html/mis-proyectos/nodejs/login-node/config/auth.js",
+		"/var/www/html/mis-proyectos/nodejs/login-node/app/routes.js",
+		"/etc/hosts",
+		"/var/www/html/mis-proyectos/Sistema-PHP-POO/controladores/Usuario.php",
+		"/var/www/html/mis-proyectos/laratter/resources/views/home.blade.php",
+		"/home/developer/Documentos/PERSONAL/Informatica/celulares/bandas-celulares-venezuela.txt",
+		"/var/www/html/mis-proyectos/angularjs/01-inicio/primera-app/src/index.html",
+		"/home/developer/.npm/_logs/2018-04-28T12_38_13_311Z-debug.log",
+		"/home/developer/Dropbox/Trabajo/Manuales y Tips/Git/GIT-comandos-e-instalacion.txt",
+		"/home/developer/Escritorio/importante-devops.txt",
+		"/home/developer/Documentos/Trabajo/MEXICO/twitter.com-LaNetaSiempre.txt",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/index.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/login.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/profile.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/signup.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/app/models/user.js",
+		"/home/developer/Descargas/Readme.html",
+		"/home/developer/Descargas/Template-README.md",
+		"/home/developer/myCA/caconfig.cnf",
+		"/home/developer/myCA/localhost.cnf",
+		"/home/developer/Dropbox/Trabajo/Manuales y Tips/abrir-con.txt",
+		"/home/developer/Documentos/PERSONAL/Informatica/certificados/creando certificados-vpn.txt",
+		"/var/www/html/mis-proyectos/nodejs/06-registro-login/modelos/Usuario.js",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/models/user.js",
+		"/var/www/html/mis-proyectos/nodejs/06-registro-login/server.js",
+		"/var/www/html/mis-proyectos/nodejs/login-node/config/database.js",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/profile.ejs",
+		"/var/www/html/mis-proyectos/nodejs/login-node/public/css/styles.css",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/connect-local.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/layout.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/login.ejs",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/signup.ejs",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/connect-local.ejs",
+		"/var/www/html/mis-proyectos/nodejs/07-login/views/layout.pug",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/views/login.pug",
+		"/var/www/html/mis-proyectos/nodejs/07-login/views/login.pug",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/public/css/app.css",
+		"/var/www/html/mis-proyectos/nodejs/07-login/views/index.pug",
+		"/var/www/html/mis-proyectos/nodejs/07-login/app.js",
+		"/var/www/html/mis-proyectos/nodejs/07-login/routes/users.js",
+		"/var/www/html/mis-proyectos/nodejs/07-login/package.json",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/views/layout.pug",
+		"/home/developer/Escritorio/TMP/yam/minergate_yam_cpu_xmr.bat",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/views/index.pug",
+		"/var/www/html/mis-proyectos/nodejs/login-node/public/css/all.css",
+		"/var/www/html/mis-proyectos/nodejs/login-node/views/index.ejs",
+		"/var/www/html/mis-proyectos/DptoArchivo/Vista/requisitos.php",
+		"/var/www/html/mis-proyectos/nodejs/login-node/node_modules/@fortawesome/fontawesome-free-brands/README.md",
+		"/var/www/html/mis-proyectos/nodejs/login-node/node_modules/@fortawesome/fontawesome/index.js",
+		"/var/www/html/mis-proyectos/nodejs/login-node/node_modules/bootstrap/README.md",
+		"/var/www/html/otros-proyectos/html5/css/estilos.css",
+		"/home/developer/.cache/.fr-xBtpq3/yam-yvg1900-M7v-linux64-generic/readme.txt",
+		"/home/developer/.cache/.fr-ReDHFL/yam-yvg1900-M7v-linux64-generic/finetuning-xmr.txt",
+		"/home/developer/Escritorio/TMP/yam/yam-md5sums-signature.txt",
+		"/home/developer/Escritorio/bin/xmr-stak/build/bin/pools.txt",
+		"/home/developer/Escritorio/bin/xmr-stak/build/bin/cpu.txt",
+		"/home/developer/Escritorio/bin/xmr-stak/build/bin/config.txt",
+		"/home/developer/Dropbox/Trabajo/Manuales y Tips/llave.txt",
+		"/home/developer/Dropbox/Cuentas/MEGA-RECOVERYKEY.txt",
+		"/home/developer/Dropbox/Cuentas/numeros.txt",
+		"/home/developer/Dropbox/TMP/MIGRACION/Cuenta-Dolares/datos.txt",
+		"/home/developer/Documentos/PERSONAL/Payoneer.txt",
+		"/home/developer/Documentos/PERSONAL/Enlaces MEGA de los libros.txt",
+		"/home/developer/Documentos/PERSONAL/Varias/Doc-Imp/e-mail.txt",
+		"/home/developer/Documentos/PERSONAL/Varias/Otros-Doc/amazon.txt",
+		"/home/developer/Documentos/PERSONAL/Varias/Otros-Doc/bizglobal-ordenes.txt",
+		"/home/developer/Documentos/PERSONAL/Varias/Otros-Doc/blu-ray.txt",
+		"/home/developer/Documentos/PERSONAL/Varias/Q.txt.txt",
+		"/home/developer/Dropbox/Cuentas/0.Otros/c.txt",
+		"/home/developer/Escritorio/bin/xmr-stak/CMakeLists.txt",
+		"/home/developer/Escritorio/bin/xmr-stak/build/bin/xmr-stak",
+		"/home/developer/Escritorio/bin/xmr-stak/README.md",
+		"/home/developer/Descargas/Software/VPN/vpn.txt",
+		"/home/developer/Documentos/Trabajo/MEXICO/usuarios-del-dia.txt",
+		"/home/developer/Dropbox/Cuentas/credenciales.txt",
+		"/var/www/html/mis-proyectos/nodejs/03-proyecto/package.json",
+		"/var/www/html/mis-proyectos/nodejs/loginnode/config/auth.js",
+		"/var/www/html/mis-proyectos/nodejs/08-express-gen/app.js",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/database/seeds/UserTableSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_malo/database/seeds/UserTableSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_malo/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/mis-proyectos/laravel-angular/API/app/User.php",
+		"/var/www/html/mis-proyectos/laravel-angular/API/app/Http/Controllers/NoteController.php",
+		"/var/www/html/mis-proyectos/laravel-angular/API/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/mis-proyectos/laravel-angular/API/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/app/Providers/AppServiceProvider.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/database/migrations/2016_09_11_164111_create_jokes_table.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/database/seeds/JokesTableSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/database/seeds/UsersTableSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/app/Joke.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/app/Http/Kernel.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/app/User.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/app/Http/routes.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/composer.json",
+		"/var/www/html/mis-proyectos/angular-laravel/api_laravel/.env",
+		"/var/www/html/mis-proyectos/angular-laravel/api/config/app.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/app/Http/routes.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/database/seeds/UserTableSeeder.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/app/Http/Controllers/ApiAuthController.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/app/Http/Kernel.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/app/User.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/config/database.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/composer.json",
+		"/var/www/html/mis-proyectos/angular-laravel/api/app/Http/Controllers/Controller.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/database/factories/ModelFactory.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/config/cors.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/config/jwt.php",
+		"/var/www/html/mis-proyectos/angular-laravel/api/.env",
+		"/var/www/html/mis-proyectos/angular-laravel/api/package.json"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5578141719",
+			"AnaFagundez12",
+			"tope",
+			"userMap",
+			"facebook",
+			"configAuth",
+			"emails",
+			"facebook",
+			"profileFields",
+			"callbackURL",
+			"facebook"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 47.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "mean-01.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

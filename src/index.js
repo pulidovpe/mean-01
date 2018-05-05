@@ -1,12 +1,18 @@
 // Import libs
-const cors = require('cors');	// Connect/Express middleware
 const express = require('express');
+const path = require('path');
+const cors = require('cors');	// Connect/Express middleware
+
 const app = express();
+
+const indexRoutes = require('./routes/index');
+const tasksRoutes = require('./routes/tasks');
 
 // Settings *****************
 app.set('port', process.env.PORT || 3000);
 app.engine('html', require('pug').renderFile);
 app.set('view engine', 'pug');
+app.set('views', path.join(__dirname, 'views'));
 
 // Middlewares **************
 app.use(cors());
@@ -14,7 +20,8 @@ app.use(express.json()); // No need it body-parser since express 4.16.2
 app.use(express.urlencoded({extended: false})); // Receive data form no images
 
 // Routes
-app.use(require('./routes/index'));
+app.use(indexRoutes);
+app.use('/tasks', tasksRoutes);
 
 // Launch *******************
 app.listen(app.get('port'), () => {
@@ -22,8 +29,8 @@ app.listen(app.get('port'), () => {
 });
 
 /*
-const path = require('path');
-const mongoose = require('mongoose');
+
+
 const passport = require('passport');
 const flash = require('connect-flash');
 const morgan = require('morgan');
@@ -49,7 +56,7 @@ require('./config/passport')(passport); // pass passport for configuration
 
 // settings
 
-app.set('views', path.join(__dirname, 'views'));
+
 app.set('view engine', 'pug');
 
 // middlewares
