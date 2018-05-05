@@ -30,7 +30,7 @@ node server.js
 ```
 ## Lista de Tareas
 
-- [x] Inicilizar repositorio
+- [x] Inicializar repositorio
 - [ ] Subir mis primeros cambios a GitHub
 - [ ] Completar el back-end
 - [ ] Probar el API
@@ -45,10 +45,10 @@ node server.js
 5. Has un "Pull Request"
 
 
-# Créditos
+## Créditos
 En este proyecto, me he guiado del tutorial publicado en esta página:
 [faztweb](http://www.faztweb.com/tutorial/crud-mean-angular-5), propiedad del usuario @github/FaztWeb
 
-# Licencia
+## Licencia
 Pulido V.P.E. – @github/pulidovpe – pulidovpe.dev@gmail.com
 Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
