@@ -3,34 +3,32 @@
 > API Rest desarrollada en Node y consumida con Angular 5
 
 ## Screenshots / Capturas de Pantalla
-> Todavía ninguna
+![enter image description here](https://lh3.googleusercontent.com/WYWAXaRS_HCKvwDEVyo0qR96K4gaDVQbJ15VEk0qdULPrdykMhvIkWbv9VpB0rwh9cckTdAn9GVh)
 
 ## Tech-framework used / Tecnologías Usadas
-
-- express
-- mongojs
-- cors
-- path
-- bootstrap
-- font-awesome
+- Node
+	- express
+	- mongojs
+	- cors
+	- path
+- Angular
+- Mongodb
+- Bootstrap
+- Font-awesome
 
 ## Install / Instalación
 #### OS X, Linux y Windows
 *Abra un terminal y ejecute:*
 ```Shell
 git clone http://github.com/pulidovpe/login-node.git
-```
-```Shell
+
 cd login-node
-```
-```Shell
+
 npm install
-```
-```Shell
+
 node server.js
 ```
 ## Tasks / Lista de Tareas
-
 - [x] Inicializar repositorio
 - [x] Subir mis primeros cambios a GitHub
 - [x] Completar el back-end
@@ -38,7 +36,6 @@ node server.js
 - [x] Completar el front-end
 
 ## Contribute / Para contribuir
-
 1. Has un [Fork](https://github.com/pulidovpe/login-node/fork)
 2. Crea tu propia rama (git checkout -b feature/fooBar)
 3. Sube tus cambios (git commit -am 'Add some fooBar')

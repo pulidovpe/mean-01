@@ -55,7 +55,7 @@ router.put('/:id', (req, res, next) => {
 			error: 'Bad request'
 		});
 	} else {
-		db.tasks.update({_id: mongojs.ObjectId(req.params.id)}, (err, task) => {
+		db.tasks.update({_id: mongojs.ObjectId(req.params.id)}, updateTask, (err, task) => {
 			if(err) return next(err);
 			res.json(task);
 		});
