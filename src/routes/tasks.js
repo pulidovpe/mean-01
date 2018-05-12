@@ -19,7 +19,7 @@ router.get('/:id', (req, res, next) => {
 
 router.post('/', (req, res, next) => {
 	const task = req.body;
-	if(!tasks.title || !(tasks.isDone + '')) {
+	if(!task.title || !(task.isDone + '')) {
 		res.status(400).json({
 			error: 'Bad data'
 		});
@@ -43,11 +43,11 @@ router.put('/:id', (req, res, next) => {
 	const updateTask = {};
 
 	if(task.isDone) {
-		updateTask.isDone = tasks.isDone;
+		updateTask.isDone = task.isDone;
 	}
 
 	if(task.title) {
-		updateTask.title = tasks.title;
+		updateTask.title = task.title;
 	}
 
 	if(!updateTask) {

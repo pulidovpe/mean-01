@@ -11,7 +11,8 @@
 - mongojs
 - cors
 - path
-- pug
+- bootstrap
+- font-awesome
 
 ## Install / Instalación
 #### OS X, Linux y Windows
@@ -33,8 +34,8 @@ node server.js
 - [x] Inicializar repositorio
 - [x] Subir mis primeros cambios a GitHub
 - [x] Completar el back-end
-- [ ] Probar el API
-- [ ] Completar el front-end
+- [x] Probar el API
+- [x] Completar el front-end
 
 ## Contribute / Para contribuir
 
