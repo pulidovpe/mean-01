@@ -1,9 +1,9 @@
-# MEAN - 01
+# MEAN Stack - 01
 > Práctica de Node.Js 
 > API Rest desarrollada en Node y consumida con Angular 5
 
 ## Screenshots / Capturas de Pantalla
-![enter image description here](https://lh3.googleusercontent.com/WYWAXaRS_HCKvwDEVyo0qR96K4gaDVQbJ15VEk0qdULPrdykMhvIkWbv9VpB0rwh9cckTdAn9GVh)
+![MEAN Stack - 01](https://lh3.googleusercontent.com/WYWAXaRS_HCKvwDEVyo0qR96K4gaDVQbJ15VEk0qdULPrdykMhvIkWbv9VpB0rwh9cckTdAn9GVh=s700)
 
 ## Tech-framework used / Tecnologías Usadas
 - Node
