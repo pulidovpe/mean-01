@@ -36,7 +36,7 @@ node server.js
 - [x] Se hizo deploy en heroku.
 - [X] Completar el front-end
 
-> Se puede ver la app (actualmente en desarrollo) desplegada en [heroku](https://mean-task-01.herokuapp.com/)
+> Se puede ver la app (terminada) desplegada en [heroku](https://mean-task-01.herokuapp.com/)
 
 ## Contribute / Para contribuir
 1. Has un [Fork](https://github.com/pulidovpe/login-node/fork)
