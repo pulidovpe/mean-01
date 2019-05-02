@@ -20,9 +20,9 @@
 #### OS X, Linux y Windows
 *Abra un terminal y ejecute:*
 ```Shell
-git clone http://github.com/pulidovpe/login-node.git
+git clone http://github.com/pulidovpe/mean-stack-01.git
 
-cd login-node
+cd mean-stack-01
 
 npm install
 
